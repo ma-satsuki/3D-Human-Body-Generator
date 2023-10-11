@@ -1,6 +1,6 @@
 import subprocess
 
-blenderPath = r"C:\Applications\Blender.app\Contents\Resources\2.81
+blenderPath = r"C:\Applications\Blender.app\Contents\Resources
 projectPath = r"..\blenderfiles\humanproject.blend"
 scriptPath = r"bodyEditor.py"
 
