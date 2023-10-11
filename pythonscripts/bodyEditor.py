@@ -25,7 +25,7 @@ s = float(argv[4]) / 0.95
 a = float(argv[5]) / 0.28
 fa = float(argv[6]) / 0.25
 hp = float(argv[7]) / 0.86
-h = float(argv[8]) / 1.765
+h = float(argv[8]) / 1.54
 
 ob = bpy.context.object
 me = ob.data
