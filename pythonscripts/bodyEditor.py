@@ -200,5 +200,5 @@ bpy.ops.transform.resize(
 bpy.ops.object.transform_apply(location=False, rotation=False, scale=True)
 
 # EXPORT
-exportPath = r"..\projectexports\generatedbody.glb"
+exportPath = r"../projectexports/generatedbody.glb"
 bpy.ops.export_scene.gltf(filepath=exportPath, use_selection=False)
